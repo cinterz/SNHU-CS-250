@@ -1,0 +1,11 @@
+Overview
+This repository contains my submitted artifact for the course along with written reflections on several essential questions in the Computer Science program. These questions are designed to help connect technical work with broader professional practices, including user-centered design, Agile development, and effective teamwork.
+
+Interpreting User Needs and the Role of User Stories
+Understanding user needs begins with listening—identifying what users are trying to accomplish, what problems they face, and what outcomes matter most to them. Translating those needs into a program requires breaking them down into clear, actionable requirements. User stories help bridge this gap by framing needs from the user’s perspective (“As a user, I want… so that…”). They keep development focused on real value, prevent overengineering, and guide decisions about features, priorities, and acceptance criteria. By grounding development in user intent, user stories ensure that the final product aligns with actual expectations and solves the right problems.
+
+Approaching Program Development and Agile Practices
+My approach to developing programs centers on iteration, feedback, and continuous improvement. Agile processes support this mindset by encouraging small, incremental changes rather than large, rigid plans. Practices such as sprint planning, daily standups, backlog refinement, and retrospectives help maintain clarity, adaptability, and team alignment. In my future development work, I hope to incorporate Agile values such as responding to change, collaborating closely with stakeholders, and delivering working software frequently. These practices not only improve product quality but also create a healthier, more transparent development environment.
+
+Being a Good Team Member in Software Development
+Being a strong team member means contributing more than code. It involves communicating clearly, offering help when others are stuck, and being open to feedback. Good team members respect deadlines, write maintainable code, and share knowledge to support the group’s success. They also demonstrate empathy—recognizing that software development is collaborative and that diverse perspectives lead to better solutions. Ultimately, a good team member strengthens trust, reduces friction, and helps the team deliver high‑quality work consistently.
